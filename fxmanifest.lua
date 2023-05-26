@@ -2,11 +2,17 @@ fx_version 'bodacious'
 game 'gta5'
 lua54 'yes'
 
-name 'Mxthess Map Fix'
-url 'https://github.com/Mxthesss'
+author 'Mxthess'
 
-client_script 'mx_client.lua'
+description 'MX-FixMap'
+
+version '1.0.0'
+
+client_scripts {
+    'mx_client.lua',
+}
 
 shared_scripts {
-    '@ox_lib/init.lua'
+    '@ox_lib/init.lua',
+    '@es_extended/imports.lua'
 }

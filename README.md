@@ -10,8 +10,9 @@
 ▶ Localization support for multiple languages (currently 2)
 
 :link: **|** **Links:**
-[GitHub](https://github.com/Mxthesss/MX-FixMap)
-[DOCS](https://mxthess.gitbook.io/mx-scripts/)
+- [GitHub](https://github.com/Mxthesss/MX-FixMap)
+- [Discord+More Scripts](https://discord.gg/PBETRY2g8D)
+- [DOCS](https://mxthess.gitbook.io/mx-scripts/)
 
 :bulb: **|** **Note:**
 Requires [ox_lib](https://github.com/overextended/ox_lib/releases).

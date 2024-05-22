@@ -25,4 +25,3 @@ Requires [ox_lib](https://github.com/overextended/ox_lib/releases).
 | Requirements                | [ox_lib](https://github.com/overextended/ox_lib/releases)   |
 | Support                           | Yes              |
 
-||@everyone ||
